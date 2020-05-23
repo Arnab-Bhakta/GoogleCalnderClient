@@ -1,0 +1,2 @@
+features :
+    gcalander <event> <date> <time> <-r> <reminder time offset> 
